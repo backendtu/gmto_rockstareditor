@@ -1,2 +1,6 @@
-# notbad-rockstar-editor
-Simple FiveM script with which you can use Rockstar editor. To start recording use /recordstart, to stop recording use /recordstop, to stop and discard current recording type /recorddiscard, to open rockstar editor /rockstareditor 
+# gmto rockstar editor
+
+Command: /rockstareditor
+Requirments: ox_lib *(https://github.com/overextended/ox_lib)*
+
+This powerful but simple tool allows you to easily record and edit your gameplay using Rockstar Editor within your FiveM server. With just a simple command, you can start and stop recording at any time, allowing you to capture all of the action in your game.
