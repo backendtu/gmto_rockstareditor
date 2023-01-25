@@ -8,7 +8,7 @@ lua54 'yes'
 version '1.0.0'
 
 client_scripts {
-    'client/main.lua'
+    'main.lua'
 }
 shared_scripts {
     '@ox_lib/init.lua'
